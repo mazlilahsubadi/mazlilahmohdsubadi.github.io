@@ -1,9 +1,9 @@
 {
-  "name": "my_resume",
+  "name": "MyResume",
   "version": "1.0.0",
   "description": "My Resume",
   "main": "index.js",
-  "homepage": "https://mazlilahsubadi.github.io/my_resume",
+  "homepage": "https://mazlilahmohdsubadi.github.io/MyResume",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
